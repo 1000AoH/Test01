@@ -36,6 +36,7 @@ public class Main {
         isPalindrome();
 
         /* In 2D Array + Kiểm tra đường chéo chính */
+        System.out.println();
         Array2D();
     }
 
